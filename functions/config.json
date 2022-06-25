@@ -1,0 +1,7 @@
+[
+    {
+        "name": "get_course",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
